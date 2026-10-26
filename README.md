@@ -107,7 +107,7 @@ Desain dibuat menggunakan Figma dan masih berupa rancangan antarmuka, sehingga b
 ## Tools yang Digunakan
 
 - **Figma** — Perancangan UI/UX
-- **PNG** — Format aset desain
+- **JPEG** — Format aset desain
 - **GitHub** — Dokumentasi dan pengumpulan tugas
 
 ## Pengerjaan

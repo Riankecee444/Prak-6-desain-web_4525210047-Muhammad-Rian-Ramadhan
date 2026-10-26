@@ -2,6 +2,7 @@
 
 # Praktikum Desain Web — Pertemuan 6
 
+| | |
 |---|---|
 | **Nama** | Muhammad Rian Ramadhan |
 | **NPM** | 4525210047 |
@@ -113,4 +114,4 @@ Desain dibuat menggunakan Figma dan masih berupa rancangan antarmuka, sehingga b
 
 Perancangan Wireframe, Mockup High Fidelity, dan Studi Kasus EduSmart disusun oleh **Muhammad Rian Ramadhan**.
 
-Mini Design System disusun oleh **Muhammad Rian Ramadhan**
+Mini Design System disusun oleh **Muhammad Rian Ramadhan**.
